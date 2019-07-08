@@ -8,3 +8,6 @@ print("Kiran is very hungry")
 
 print("I am very hungry")
 
+
+i am raju
+i am kiran
