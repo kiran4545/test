@@ -23,4 +23,7 @@ print("Kiran is very hungry")
 i am one
 i am two
 i am three
+i am four
+i am five 
+i am six
 
