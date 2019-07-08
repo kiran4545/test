@@ -9,10 +9,6 @@ print("Kiran is very hungry")
 print("I am very hungry")
 print("Mani is very hungry")
 
-print("Kiran is very hungry")
-
-
-print("Kiran is very hungry")
 
 
 
