@@ -11,4 +11,6 @@ print("Mani is very hungry")
 
 
 
-
+i am one
+i am two
+i am three
