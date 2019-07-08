@@ -15,5 +15,4 @@ print("Kiran is very hungry")
 
 print("Kiran is very hungry")
 
-print("I am hungry")
 
