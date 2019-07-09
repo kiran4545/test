@@ -17,4 +17,19 @@ i am kiran
 
 fourty five
 sixty four
+<<<<<<< HEAD
 ninety eight
+=======
+
+
+
+
+
+
+
+
+
+=======
+ninety eight
+>>>>>>> 5285ca1... Revert "Added fourty five"
+>>>>>>> c750eee... Resolved
