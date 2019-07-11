@@ -1,4 +1,5 @@
-print("I want panner")
-print("I want biryani")
-print("I want rajma")
-print("I want mushromm biryani")
+
+hai raju
+hai kiran
+hai everyone
+
