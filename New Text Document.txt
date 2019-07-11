@@ -1,5 +1,4 @@
-
-hai raju
-hai kiran
-hai everyone
-
+print("I want panner")
+print("I want biryani")
+print("I want rajma")
+print("I want mushromm biryani")
