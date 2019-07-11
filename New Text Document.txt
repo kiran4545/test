@@ -1,4 +1,14 @@
 
+
 mahesh
 prabhu
+
+print("I want panner")
+print("I want biryani")
+print("I want rajma")
+print("I want mushromm biryani")
+
+hai mnmaskdjnkndj
+hai jfkldjflwl
+
 
