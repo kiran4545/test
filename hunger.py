@@ -20,5 +20,3 @@ i am not a human being
 
 blah blah
 
-
-My name is Teju
