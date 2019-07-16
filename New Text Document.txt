@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-hello raju
-hello kiran
-hello gowtham
-hello mani
-=======
 raju
 kiran
 
 
->>>>>>> 15f86de9534cdf158c97acb7ebe75dfd3d62e532
+
