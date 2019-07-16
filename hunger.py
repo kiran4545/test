@@ -11,10 +11,14 @@ print("Mani is very hungry")
 
 
 
+
 i am raju
 i am kiran
+i am human
+i am human being
+i am not a human being
+
+blah blah
 
 
-fourty five
-sixty four
-ninety eight
+My name is Teju
