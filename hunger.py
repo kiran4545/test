@@ -16,7 +16,5 @@ i am raju
 i am kiran
 i am human
 i am human being
-i am not a human being
 
-blah blah
 
